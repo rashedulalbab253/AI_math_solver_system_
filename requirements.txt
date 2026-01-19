@@ -1,0 +1,14 @@
+streamlit
+numpy
+opencv-python-headless
+easyocr
+torch
+torchvision
+openai-whisper
+langchain==0.1.16
+langchain-community
+sentence-transformers
+faiss-cpu
+python-dotenv
+Pillow
+sympy
