@@ -1,0 +1,8 @@
+Derivative basics:
+- If f'(x) = 0, x is a critical point
+- Use second derivative test:
+  f''(x) > 0 → minimum
+  f''(x) < 0 → maximum
+
+Limits:
+- Direct substitution if function is continuous

@@ -1,0 +1,9 @@
+Quadratic Function:
+For f(x) = ax^2 + bx + c:
+- Minimum value occurs at x = -b / (2a) if a > 0
+- Maximum value occurs at x = -b / (2a) if a < 0
+- Minimum value = f(-b / (2a))
+
+Common mistakes:
+- Forgetting sign of 'a'
+- Not substituting x correctly
