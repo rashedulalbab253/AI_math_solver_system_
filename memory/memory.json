@@ -1,0 +1,97 @@
+[
+  {
+    "problem_text": "f(z) =x^2- 4x + k",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2 - sqrt(-k + f(z) + 4), sqrt(-k + f(z) + 4) + 2",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "f(z) =x^2 - 4x + k",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2 - sqrt(-k + f(z) + 4), sqrt(-k + f(z) + 4) + 2",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "f(x) = x^2 - 4x + k",
+    "route": "quadratic_equation",
+    "final_answer": "The computed result does not match the expected answer type for this problem.",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "x^2 - 8x + 12 = 0",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2, 6",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "x^2 - 8x + 12 = 0",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2, 6",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "x^2 - 8x + 12 = 0",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2, 6",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "x^2 - 8x + 12 = 0",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2, 6",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  },
+  {
+    "problem_text": "x^2 - 8x + 12 = 0",
+    "route": "quadratic_equation",
+    "final_answer": "x = 2, 6",
+    "steps": [
+      "Identify the quadratic equation.",
+      "Convert equation to standard form ax\u00b2 + bx + c = 0.",
+      "Solve using symbolic computation."
+    ],
+    "verified": true,
+    "user_feedback": "unknown"
+  }
+]
